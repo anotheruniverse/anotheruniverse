@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Ad Astra, Per Aspera
+循此苦旅，终抵群星
+
+屏幕另一边的陌生人，我们一定，终将在没有黑暗的世界相遇。
 <!--
 **anotheruniverse/anotheruniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
